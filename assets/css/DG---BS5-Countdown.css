@@ -1,11 +1,19 @@
-* {
+.container {
+  max-width: 960px;
+}
+
+ul {
   margin: 0px auto;
+}
+
+#countdown {
   padding: 0px;
+  margin: 0px auto;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
 
-.container {
-  max-width: 960px;
+li {
+  margin: 0px auto;
 }
 
